@@ -1,0 +1,3 @@
+[submodule "Repotest"]
+	path = Repotest
+	url = https://github.com/Budexing/Repotest.git
